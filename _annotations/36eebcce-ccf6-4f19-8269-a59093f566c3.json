@@ -4,7 +4,19 @@ order: 1
 ---
 {
     "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "hand",
+            "purpose": "commenting",
+            "creator": {
+                "id": "1625parker",
+                "name": "1625parker"
+            },
+            "created": "2022-04-01T07:25:11.334Z",
+            "modified": "2022-04-01T07:25:11.733Z"
+        }
+    ],
     "target": {
         "source": "https://1625parker.github.io/annonatate/img/derivatives/iiif/drache/canvas/drache-1",
         "selector": {
